@@ -1,4 +1,3 @@
-Here's the enhanced technical implementation document for the Disaster Response Coordination Platform (DRCP):
 
 # Technical Implementation Document
 
